@@ -1,8 +1,10 @@
 ---
 title: "Teaching Statistics with R in Psychology Symposium"
-output: html_document
-date: "Thursday, 23 June, 2022."
 author: "Department of Psychology, Nottingham Trent University"
+date: "Thursday, 23 June, 2022."
+output:
+  html_document: default
+  github_document: default
 abstract: |
   Statistical data analysis has always been a major part of the undergraduate and postgraduate curriculum in the field of psychology. In the last few decades, the principal software that has been most widely used for teaching statistics in psychology has been SPSS. More recently, given the increasing popularity and widespread use of R, many psychology departments have switched their teaching software from SPSS to R. The purpose of this online symposium is to bring together representatives from psychology departments in the UK who now teach statistics using R in order to discuss the practicalities, challenges, and opportunities of teaching with R. We will have talks from representatives of Lancaster University, Nottingham Trent University, University of Glasgow, the University of Plymouth, and the University of Sussex.
 ---

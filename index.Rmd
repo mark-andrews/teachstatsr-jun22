@@ -18,7 +18,7 @@ knitr::opts_chunk$set(cache = TRUE)
 
 # Programme
 
-## The challenges and successes of teaching using R in a large department. *Russell Turk, Lucy Justice, Nottingham Trent University*.
+## The challenges and successes of teaching using R in a large department. *Russell Turk, Lucy Justice, Nottingham Trent University*. [Slides](slides/r-turk-R_symposium_talk.pptx)
 
 In 2019, the Department of Psychology in Nottingham Trent University began its transition from SPSS to R for all statistics and research methods teaching. We completed this transition this year. Each year, we now teach statistics and research methods, including research projects, using R to 2,500 undergraduate students and this involves over 150 members of staff.  In this talk, I will discuss the practical and other challenges we encountered in this transition, what worked well, what did not work well, and our plans for the future.
 
@@ -26,7 +26,6 @@ In 2019, the Department of Psychology in Nottingham Trent University began its t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IlkQF8pnKhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 </div>
 
-* [Slides](slides/r-turk-R_symposium_talk.pptx)
 
 ## From SPSS to R in Undergraduate Psychology. *Andy Wills, University of Plymouth*.
 

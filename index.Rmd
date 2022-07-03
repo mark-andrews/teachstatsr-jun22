@@ -26,6 +26,8 @@ In 2019, the Department of Psychology in Nottingham Trent University began its t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IlkQF8pnKhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 </div>
 
+* [Slides](slides/r-turk-R_symposium_talk.pptx)
+
 ## From SPSS to R in Undergraduate Psychology. *Andy Wills, University of Plymouth*.
 
 In 2018, the School of Psychology at the University of Plymouth began teaching R to all new undergraduates. We're a typical School in terms of entry grades. So, if our students can handle learning R, yours probably can, too. Our first cohort of students taught R graduated in 2021. They were taught R throughout all three years of the programme. And, in their final project, almost 90% of students primarily used R. In many cases, the work they produced was impressive. In this talk, I'll outline how we made this transition, what we learned, and give some suggestions about how to achieve a similar transition in other UG psychology programmes.
